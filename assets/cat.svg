@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 0 180 200" width="180" height="200" role="img" aria-labelledby="title">
+  <title id="title">Cat mascot — blinking and swishing its tail</title>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-4 150 172; 4 150 172; -4 150 172" keyTimes="0;0.5;1" dur="3.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <path fill="#8f6122" d="M150 176 C180 178 198 156 192 128 C190 116 180 108 170 108 C178 116 184 126 182 140 C179 158 166 166 150 168 Z"/>
+  </g>
+
+  <path fill="#8f6122" d="M86 14 L76 60 L104 40 Z"/>
+  <path fill="#8f6122" d="M134 14 L144 60 L116 40 Z"/>
+
+  <path fill="#8f6122" d="M74 104 C60 116 56 142 62 162 C66 176 78 184 94 184 L126 184 C142 184 154 176 158 162 C164 142 160 116 146 104 Z"/>
+
+  <circle fill="#8f6122" cx="110" cy="76" r="38"/>
+
+  <rect fill="#f4ecd8" x="94" y="158" width="12" height="26" rx="6"/>
+  <rect fill="#f4ecd8" x="114" y="158" width="12" height="26" rx="6"/>
+
+  <g fill="#f4ecd8">
+    <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.88;0.92;0.96;1" dur="5s" repeatCount="indefinite"/>
+    <circle cx="94" cy="72" r="4.5"/>
+    <circle cx="126" cy="72" r="4.5"/>
+  </g>
+
+  <g fill="none" stroke="#f4ecd8" stroke-width="3" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.88;0.92;0.96;1" dur="5s" repeatCount="indefinite"/>
+    <path d="M88 72 Q94 78 100 72"/>
+    <path d="M120 72 Q126 78 132 72"/>
+  </g>
+
+  <path fill="#f4ecd8" d="M104 86 L116 86 L110 93 Z"/>
+
+  <g fill="none" stroke="#f4ecd8" stroke-width="2.5" stroke-linecap="round">
+    <path d="M110 93 Q104 100 97 96"/>
+    <path d="M110 93 Q116 100 123 96"/>
+  </g>
+
+  <g fill="none" stroke="#b8863a" stroke-width="2.5" stroke-linecap="round">
+    <path d="M72 79 L44 73"/>
+    <path d="M74 87 L44 87"/>
+    <path d="M76 95 L48 101"/>
+    <path d="M148 79 L176 73"/>
+    <path d="M146 87 L176 87"/>
+    <path d="M144 95 L172 101"/>
+  </g>
+</svg>

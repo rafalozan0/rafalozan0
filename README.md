@@ -127,3 +127,9 @@ More than 20 Excel files that four people used to consolidate by hand every year
   If you have a slow process, a manual report or a product idea, tell me the context and I'll propose a plan.<br>
   <a href="mailto:hola@rafalozano.me">hola@rafalozano.me</a> · <a href="https://rafalozano.me/">rafalozano.me</a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafalozan0/rafalozan0/main/assets/cat.svg" alt="Animated cat mascot blinking and swishing its tail" width="160">
+</p>
+
+<p align="center"><sub>My debugging supervisor — reviews every commit with her eyes closed.</sub></p>
