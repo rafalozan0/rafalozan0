@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="title">
+  <title id="title">Rafael Lozano — Full-Stack Developer &amp; AI Automation</title>
+  <rect x="8" y="8" width="1184" height="284" rx="18" fill="#241d13" stroke="#f4ecd8" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="60" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="6" fill="#b8863a">FULL-STACK DEVELOPER · AI AUTOMATION</text>
+  <text x="1140" y="86" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#f4ecd8">RL<tspan fill="#b8863a">//</tspan></text>
+  <text x="60" y="184" font-family="Archivo, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="1" fill="#f4ecd8">RAFAEL <tspan fill="none" stroke="#f4ecd8" stroke-width="2.4">LOZANO</tspan></text>
+  <text x="60" y="224" font-family="Archivo, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" fill="#b09b76">Industrial Design Engineer — software for manufacturing &amp; operations</text>
+  <line x1="60" y1="252" x2="1140" y2="252" stroke="#b8863a" stroke-opacity="0.4" stroke-width="1.5"/>
+  <text x="60" y="283" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9a8a6d">Silao, Guanajuato, MX</text>
+  <text x="1140" y="283" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9a8a6d">rafalozano.me</text>
+</svg>
